@@ -1,0 +1,17 @@
+{
+  "name": "pure-grids-nr",
+  "repo": "njpatel/pure-grids-nr",
+  "description": "A small CSS module for non-responsive grids that you can use in every web project. http://purecss.io/grids",
+  "version": "3.0.0",
+  "keywords": [
+    "pure",
+    "grid",
+    "grids",
+    "css",
+    "yui"
+  ],
+  "license": "BSD",
+  "styles": [
+    "grids-nr.css"
+  ]
+}
